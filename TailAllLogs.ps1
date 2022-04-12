@@ -1,4 +1,4 @@
-﻿Workflow My-Tail
+﻿Workflow Tail
 {
 
     Param([string[]] $Path)
@@ -10,4 +10,4 @@
 
 }
 
-My-Tail (dir C:\OMAPerformanceTools\PerfTest\v4\omatest\logs\*.log)
+Tail (dir C:\DIR\*.log)
